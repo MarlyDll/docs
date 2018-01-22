@@ -37,7 +37,7 @@ exemple: `/endpoint?token={yourapikey}`
 | name            | `string`       |                     |                                |
 | date            | `isodate`      | date of event 1     | 2018-12-19T10:45:00.000Z       |
 | address         | `string`       |                     |                                |
-| type            | `string`       | `ceremony` or `interment` or `cremation`|                                |
+| type            | `string`       | `ceremony` or `contemplation` or `interment` or `cremation`|                                |
 
 
 ### `POST /places description - array 2`
@@ -47,7 +47,7 @@ exemple: `/endpoint?token={yourapikey}`
 | name            | `string`       |                     |                                |
 | date            | `isodate`      | date of event 2     | 2018-12-19T11:45:00.000Z       |
 | address         | `string`       |                     |                                |
-| type            | `string`       | `ceremony` or `interment` or `cremation`|                                |
+| type            | `string`       | `ceremony` or `contemplation` or `interment` or `cremation`|                                |
 
 
 ### Exemple
